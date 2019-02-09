@@ -58,3 +58,4 @@ Run with: mvn verify
             </plugins>
         </build>
 
+run by tag--->  mvn verify -Dcucumber.options=“--tags @smoke”
